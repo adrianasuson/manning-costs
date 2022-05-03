@@ -1,0 +1,13 @@
+{
+  "name": "Santiago",
+  "code": "SCL",
+  "timeZone": "America/Santiago",
+  "country": {
+    "name": "Chile",
+    "code": "CL",
+    "continent": {
+      "name": "South America",
+      "code": "SA"
+    }
+  }
+}
